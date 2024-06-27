@@ -21133,3 +21133,17 @@ div.tagsinput {
   flex-grow: 1; }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+
+/* app-j8pi8qhU.css | http://127.0.0.1:8000/build/assets/app-j8pi8qhU.css */
+
+.min-h-screen {
+  /* min-height: 100vh; */
+  min-height: 8vh;
+}
+
+/* Element | http://127.0.0.1:8000/redirect */
+
+.min-h-screen > nav:nth-child(1) {
+  min-height: 10px;
+}
