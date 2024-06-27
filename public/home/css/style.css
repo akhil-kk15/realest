@@ -10378,3 +10378,36 @@ nav[aria-label="breadcrumb"] li:before {
 #logincss{
   margin-right: 10px;
 }
+
+/* .min-h-screen > nav:nth-child(1) {
+  min-height: 10px;
+/* }
+
+nav {
+  height: 60px; /* Adjust based on your design */
+  /* overflow: hidden;
+} */
+
+/* nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center; /* Centers items vertically */
+  /* height: 100%;
+} */ 
+
+/* nav ul li {
+  margin: 0 10px;} /* Adjust spacing between menu items */
+
+
+/* nav ul li a {
+  text-decoration: none;
+  color: #fff; /* Adjust text color */
+  /* font-size: 16px; } Adjust font size */
+
+
+/* Adjust form styling within the navbar */
+/* nav form {
+  margin: 0;
+}  */

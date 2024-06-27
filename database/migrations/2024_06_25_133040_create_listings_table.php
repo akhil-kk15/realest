@@ -13,11 +13,12 @@ return new class extends Migration
     {
         Schema::create('listings', function (Blueprint $table) {
             $table->id();
-            $table->string('title');
+            $table->string('title')->nullable();
             $table->text('description');
             $table->decimal('price', 8, 2);
             $table->string('location');
             $table->unsignedBigInteger('user_id');
+            $table->string('image')->nullable();
             $table->timestamps();
 
             // Foreign key constraint to link listings with users
