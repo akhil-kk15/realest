@@ -77,7 +77,7 @@
               <ul class="nav flex-column sub-menu">
                 <li class="nav-item"> <a class="nav-link" href="view_listingtable">Approve Listing</a></li>
                 <li class="nav-item"> <a class="nav-link" href="pages/ui-features/dropdowns.html">Show Listing</a></li>
-                
+                 
               </ul>
             </div>
           </li>

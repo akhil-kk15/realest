@@ -15,7 +15,7 @@
             <div class="div_center">
             <h1>Approve Listings</h1>        
         </div>    
-        @if (session()->has)
+      
 
             </div>  
     </div>
