@@ -151,8 +151,16 @@
                 </div>
               </li>
             <li>
-            <x-app-layout>
-            </x-app-layout>
+            <li>
+              <form method="POST" action="{{ route('logout') }}">
+                @csrf
+                <a href="{{ route('logout') }}"
+                  onclick="event.preventDefault();
+                        this.closest('form').submit();">
+                  Logout
+                </a>
+              </form>
+            </li>
             </li>
           </div>
         </nav>
