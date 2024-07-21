@@ -96,12 +96,12 @@
               <div class="col-md-4 grid-margin stretch-card">
                 <div class="card">
                   <div class="card-body">
-                    <h4 class="card-title">Transaction History</h4>
+                    <h4 class="card-title">Commission Transaction History</h4>
                     <canvas id="transaction-history" class="transaction-chart"></canvas>
                     <div class="bg-gray-dark d-flex d-md-block d-xl-flex flex-row py-3 px-4 px-md-3 px-xl-4 rounded mt-3">
                       <div class="text-md-center text-xl-left">
                         <h6 class="mb-1">Transfer to Paypal</h6>
-                        <p class="text-muted mb-0">07 Jan 2019, 09:12AM</p>
+                        <p class="text-muted mb-0">07 Jan 2024, 09:12AM</p>
                       </div>
                       <div class="align-self-center flex-grow text-right text-md-center text-xl-right py-md-2 py-xl-0">
                         <h6 class="font-weight-bold mb-0">$236</h6>
@@ -110,7 +110,7 @@
                     <div class="bg-gray-dark d-flex d-md-block d-xl-flex flex-row py-3 px-4 px-md-3 px-xl-4 rounded mt-3">
                       <div class="text-md-center text-xl-left">
                         <h6 class="mb-1">Tranfer to Stripe</h6>
-                        <p class="text-muted mb-0">07 Jan 2019, 09:12AM</p>
+                        <p class="text-muted mb-0">07 Jan 2024, 09:12AM</p>
                       </div>
                       <div class="align-self-center flex-grow text-right text-md-center text-xl-right py-md-2 py-xl-0">
                         <h6 class="font-weight-bold mb-0">$593</h6>
@@ -123,7 +123,7 @@
                 <div class="card">
                   <div class="card-body">
                     <div class="d-flex flex-row justify-content-between">
-                      <h4 class="card-title mb-1">Open Projects</h4>
+                      <h4 class="card-title mb-1">Data</h4>
                       <p class="text-muted mb-1">Your data status</p>
                     </div>
                     <div class="row">
@@ -137,8 +137,8 @@
                             </div>
                             <div class="preview-item-content d-sm-flex flex-grow">
                               <div class="flex-grow">
-                                <h6 class="preview-subject">Admin dashboard design</h6>
-                                <p class="text-muted mb-0">Broadcast web app mockup</p>
+                                <h6 class="preview-subject">KYC Documents</h6>
+                                <p class="text-muted mb-0">Customer Database</p>
                               </div>
                               <div class="mr-auto text-sm-right pt-2 pt-sm-0">
                                 <p class="text-muted">15 minutes ago</p>
@@ -154,8 +154,8 @@
                             </div>
                             <div class="preview-item-content d-sm-flex flex-grow">
                               <div class="flex-grow">
-                                <h6 class="preview-subject">Wordpress Development</h6>
-                                <p class="text-muted mb-0">Upload new design</p>
+                                <h6 class="preview-subject">Image Library</h6>
+                                <p class="text-muted mb-0">Uploaded image files</p>
                               </div>
                               <div class="mr-auto text-sm-right pt-2 pt-sm-0">
                                 <p class="text-muted">1 hour ago</p>
@@ -171,8 +171,8 @@
                             </div>
                             <div class="preview-item-content d-sm-flex flex-grow">
                               <div class="flex-grow">
-                                <h6 class="preview-subject">Project meeting</h6>
-                                <p class="text-muted mb-0">New project discussion</p>
+                                <h6 class="preview-subject">Ads By Time</h6>
+                                <p class="text-muted mb-0">Date and Time of approved and unapproed ads</p>
                               </div>
                               <div class="mr-auto text-sm-right pt-2 pt-sm-0">
                                 <p class="text-muted">35 minutes ago</p>
@@ -189,7 +189,7 @@
                             <div class="preview-item-content d-sm-flex flex-grow">
                               <div class="flex-grow">
                                 <h6 class="preview-subject">Broadcast Mail</h6>
-                                <p class="text-muted mb-0">Sent release details to team</p>
+                                <p class="text-muted mb-0">Newsletters</p>
                               </div>
                               <div class="mr-auto text-sm-right pt-2 pt-sm-0">
                                 <p class="text-muted">55 minutes ago</p>
@@ -205,8 +205,8 @@
                             </div>
                             <div class="preview-item-content d-sm-flex flex-grow">
                               <div class="flex-grow">
-                                <h6 class="preview-subject">UI Design</h6>
-                                <p class="text-muted mb-0">New application planning</p>
+                                <h6 class="preview-subject">Sold items</h6>
+                                <p class="text-muted mb-0">Checklist </p>
                               </div>
                               <div class="mr-auto text-sm-right pt-2 pt-sm-0">
                                 <p class="text-muted">50 minutes ago</p>
@@ -284,7 +284,7 @@
               <div class="col-12 grid-margin">
                 <div class="card">
                   <div class="card-body">
-                    <h4 class="card-title">Order Status</h4>
+                    <h4 class="card-title">Purchase Status</h4>
                     <div class="table-responsive">
                       <table class="table">
                         <thead>
@@ -319,10 +319,10 @@
                               <span class="pl-2">Henry Klein</span>
                             </td>
                             <td> 02312 </td>
-                            <td> $14,500 </td>
-                            <td> Dashboard </td>
+                            <td> $1000000</td>
+                            <td> Villa </td>
                             <td> Credit card </td>
-                            <td> 04 Dec 2019 </td>
+                            <td> 04 Dec 2024 </td>
                             <td>
                               <div class="badge badge-outline-success">Approved</div>
                             </td>
@@ -340,10 +340,10 @@
                               <span class="pl-2">Estella Bryan</span>
                             </td>
                             <td> 02312 </td>
-                            <td> $14,500 </td>
-                            <td> Website </td>
-                            <td> Cash on delivered </td>
-                            <td> 04 Dec 2019 </td>
+                            <td> $14,5000 </td>
+                            <td> Beach House </td>
+                            <td> Cash  </td>
+                            <td> 04 Dec 2024 </td>
                             <td>
                               <div class="badge badge-outline-warning">Pending</div>
                             </td>
@@ -361,10 +361,10 @@
                               <span class="pl-2">Lucy Abbott</span>
                             </td>
                             <td> 02312 </td>
-                            <td> $14,500 </td>
-                            <td> App design </td>
+                            <td> $12,5000 </td>
+                            <td> Land </td>
                             <td> Credit card </td>
-                            <td> 04 Dec 2019 </td>
+                            <td> 04 Dec 2024 </td>
                             <td>
                               <div class="badge badge-outline-danger">Rejected</div>
                             </td>
@@ -382,10 +382,10 @@
                               <span class="pl-2">Peter Gill</span>
                             </td>
                             <td> 02312 </td>
-                            <td> $14,500 </td>
-                            <td> Development </td>
+                            <td> $214,500 </td>
+                            <td> Farm House </td>
                             <td> Online Payment </td>
-                            <td> 04 Dec 2019 </td>
+                            <td> 04 Dec 2024 </td>
                             <td>
                               <div class="badge badge-outline-success">Approved</div>
                             </td>
@@ -403,10 +403,10 @@
                               <span class="pl-2">Sallie Reyes</span>
                             </td>
                             <td> 02312 </td>
-                            <td> $14,500 </td>
-                            <td> Website </td>
+                            <td> $414,500 </td>
+                            <td> Luxuary Villa </td>
                             <td> Credit card </td>
-                            <td> 04 Dec 2019 </td>
+                            <td> 04 Dec 2024 </td>
                             <td>
                               <div class="badge badge-outline-success">Approved</div>
                             </td>
