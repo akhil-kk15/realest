@@ -12,6 +12,8 @@ Route::get('/', [HomeController::class, 'index']);
 
 Route::get('/view_lists', [AdminController::class, 'view_lists'])->name('view_lists');
 Route::get('/view_listingtable',[AdminController::class,'view_listingtable'])->name('view_listingtable');
+// Route::get('/view_photos_table',[AdminController::class])
+
 // Route::middleware([
 //     'auth:sanctum',
 //     config('jetstream.auth_session'),
