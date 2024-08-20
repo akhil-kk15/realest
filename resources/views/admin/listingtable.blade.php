@@ -27,7 +27,8 @@
             <h1>Approve Listings</h1> 
             
             <div>
-              <form>
+              <form action="{{url('approve_listing')}}" method="POST" enctype="multipart/form-data">
+                @csrf
                 <div class="div_center">
                   <label>Property Title</label>
                     <input type="text" name="title">
