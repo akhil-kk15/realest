@@ -19,6 +19,7 @@ return new class extends Migration
             $table->string('location');
             $table->unsignedBigInteger('user_id');
             $table->string('image')->nullable();
+            $table->string('usertype')->nullable();
             $table->timestamps();
 
             // Foreign key constraint to link listings with users

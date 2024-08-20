@@ -14,4 +14,6 @@ class AdminController extends Controller
     public function view_listingtable(){
         return view('admin.listingtable');
     }
+
+    
 }

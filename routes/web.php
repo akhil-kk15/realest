@@ -24,7 +24,7 @@ Route::get('/view_listingtable',[AdminController::class,'view_listingtable'])->n
 //     Route::get('/dashboard', function () {
 //         return view('dashboard');
 //     })->name('dashboard'); 
-// });
+// });  
 
 Route::middleware([
     'auth:sanctum',
