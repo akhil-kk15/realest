@@ -12,6 +12,7 @@ Route::get('/', [HomeController::class, 'index']);
 
 Route::get('/view_lists', [AdminController::class, 'view_lists'])->name('view_lists');
 Route::get('/view_listingtable',[AdminController::class,'view_listingtable'])->name('view_listingtable');
+Route::post('/approve_listing',[AdminController::class,'approve_listing'])->name('approve_listing');
 // Route::get('/view_photos_table',[AdminController::class])
 
 // Route::middleware([

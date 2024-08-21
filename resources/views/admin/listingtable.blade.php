@@ -36,17 +36,17 @@
                 </div>
                 <div class="div_center">
                   <label>Property Description</label>
-                    <textarea name="Description"></textarea>
+                    <textarea name="description" placeholder="Description"></textarea>
                   
                 </div>
 
                 <div class="div_center">
                   <label>Price</label>
-                    <input type="number" name="price"></input>
+                    <input type="number" step="0.01" name="price"></input>
                 </div>
                 <div class="div_center">
                   <label>Location</label>
-                    <input type="text" name="location"></input>
+                    <input type="text" name="location" placeholder="Location"></input>
                   
                 </div>
 

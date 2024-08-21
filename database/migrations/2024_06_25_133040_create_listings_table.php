@@ -15,13 +15,13 @@ return new class extends Migration
             $table->id();
             $table->string('title')->nullable();
             $table->text('description');
-            $table->decimal('price', 8, 2);
-            $table->string('location');
-            $table->unsignedBigInteger('user_id');
+            $table->decimal('price', 8, 2)->nullable(); // Make price nullable
+            $table->string('location')->nullable();
+            $table->unsignedBigInteger('user_id')->nullable();
             $table->string('image')->nullable();
             $table->string('usertype')->nullable();
             $table->timestamps();
-
+            
             // Foreign key constraint to link listings with users
             $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
         });
