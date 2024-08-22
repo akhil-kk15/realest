@@ -3,6 +3,7 @@
         <!-- partial -->
         <div class="main-panel">
           <div class="content-wrapper">
+            <h4>Ad insights</h4>
             <div class="row">
               <div class="col-12 grid-margin stretch-card">
                 <div class="card corona-gradient-card">
@@ -17,7 +18,7 @@
                     <div class="row">
                       <div class="col-9">
                         <div class="d-flex align-items-center align-self-start">
-                          <h3 class="mb-0">$12.34</h3>
+                          <h3 class="mb-0">Villa</h3>
                           <p class="text-success ml-2 mb-0 font-weight-medium">+3.5%</p>
                         </div>
                       </div>
@@ -27,7 +28,7 @@
                         </div>
                       </div>
                     </div>
-                    <h6 class="text-muted font-weight-normal">Potential growth</h6>
+                    <h6 class="text-muted font-weight-normal">Views</h6>
                   </div>
                 </div>
               </div>
@@ -37,7 +38,7 @@
                     <div class="row">
                       <div class="col-9">
                         <div class="d-flex align-items-center align-self-start">
-                          <h3 class="mb-0">$17.34</h3>
+                          <h3 class="mb-0">Land</h3>
                           <p class="text-success ml-2 mb-0 font-weight-medium">+11%</p>
                         </div>
                       </div>
@@ -47,7 +48,7 @@
                         </div>
                       </div>
                     </div>
-                    <h6 class="text-muted font-weight-normal">Revenue current</h6>
+                    <h6 class="text-muted font-weight-normal">Boosted</h6>
                   </div>
                 </div>
               </div>
@@ -57,7 +58,7 @@
                     <div class="row">
                       <div class="col-9">
                         <div class="d-flex align-items-center align-self-start">
-                          <h3 class="mb-0">$12.34</h3>
+                          <h3 class="mb-0">Farm house</h3>
                           <p class="text-danger ml-2 mb-0 font-weight-medium">-2.4%</p>
                         </div>
                       </div>
@@ -67,7 +68,7 @@
                         </div>
                       </div>
                     </div>
-                    <h6 class="text-muted font-weight-normal">Daily Income</h6>
+                    <h6 class="text-muted font-weight-normal">Dropped views</h6>
                   </div>
                 </div>
               </div>
@@ -77,7 +78,7 @@
                     <div class="row">
                       <div class="col-9">
                         <div class="d-flex align-items-center align-self-start">
-                          <h3 class="mb-0">$31.53</h3>
+                          <h3 class="mb-0">Beach house</h3>
                           <p class="text-success ml-2 mb-0 font-weight-medium">+3.5%</p>
                         </div>
                       </div>
@@ -87,7 +88,7 @@
                         </div>
                       </div>
                     </div>
-                    <h6 class="text-muted font-weight-normal">Expense current</h6>
+                    <h6 class="text-muted font-weight-normal">More Views</h6>
                   </div>
                 </div>
               </div>

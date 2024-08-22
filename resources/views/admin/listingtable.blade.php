@@ -24,7 +24,7 @@
       <div class = "main-panel">
         <div class="content-wrapper">
             <div class="div_center">
-            <h1>Approve Listings</h1> 
+            <h1>Add Listings</h1> 
             
             <div>
               <form action="{{url('approve_listing')}}" method="POST" enctype="multipart/form-data">
